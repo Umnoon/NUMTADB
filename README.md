@@ -1,0 +1,1 @@
+I studied the most unbiased and augmented dataset NumtaDB to classify images of isolated Bangla numerals. I experimented with the data by creating data augmentation using keras library and trained a Convolutional Neural Network model and finally compared the result with the state-of-the-art ResNet34 model.
